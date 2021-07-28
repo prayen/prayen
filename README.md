@@ -1,16 +1,17 @@
-### Hi there 👋
+<h2> Hi there, I'm Prayen! 👋</h2>
 
-<!--
-**prayen/prayen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate student from Deakin University.<br>
 
-Here are some ideas to get you started:
+- Software Developer @ <a href="https://www.synotive.com/">Synotive</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/prayen/">
+  <img align="left" alt="Prayen's LinkedIn" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png"/>
+</a>
+
+<a href="mailto:prayenshrestha@gmail.com">
+  <img align="left" alt="Prayen's Email" src="https://img.icons8.com/doodle/48/000000/gmail-new.png"/>
+</a>
+
+
+
+
