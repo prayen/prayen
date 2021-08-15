@@ -1,7 +1,6 @@
 <h2> Hi there, I'm Prayen! 👋</h2>
 
 - Alumni of Deakin University
-- Proficient in C#
 - Software Developer @ <a href="https://www.synotive.com/">Synotive</a>
 
 <a href="https://www.linkedin.com/in/prayen/">
