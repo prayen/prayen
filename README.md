@@ -1,6 +1,7 @@
 <h2> Hi there, I'm Prayen! 👋</h2>
 
-I am a graduate student from Deakin University.<br>
+Graduate student from Deakin University.<br>
+Proficient in C#.<br>
 
 - Software Developer @ <a href="https://www.synotive.com/">Synotive</a>
 
