@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Prayen! 👋</h2>
+<h2> Hello, Prayen here! 👋</h2>
 
 - Alumni of Deakin University
 - Software Developer @ <a href="https://www.synotive.com/">Synotive</a>
